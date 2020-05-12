@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "MSI Gaming Radeon RX 570 256-bit 8GB GDRR5 DirectX 12 VR Ready CFX Graphcis Card (RX 570 ARMOR 8G OC)",
+        "Price": 159.99,
+        "Url": "https://www.amazon.com/MSI-RX-570-ARMOR-8G/dp/B076Y93L8F/ref=sr_1_8?dchild=1&keywords=rx+570&qid=1589213297&sr=8-8"
+    },
+    {
+        "Name": "MSI Gaming Radeon Rx 570 256-bit 4GB GDRR5 DirectX 12 VR Ready CFX DVI/HDMI/DP Graphics Card (RX 570 Armor 4G OCV1)",
+        "Price": 164.99,
+        "Url": "https://www.amazon.com/MSI-Gaming-256-bit-DirectX-Graphics/dp/B07QS74XG3/ref=sr_1_15?dchild=1&keywords=rx+570&qid=1589213297&sr=8-15"
+    },
+    {
+        "Name": "Sapphire Technology Technology Radeon 11266-04-20G Pulse RX 570 4GB GDDR5 Dual HDMI/ DVI-D/ Dual DP OC with Backplate (UEFI) PCI-E Graphics Card",
+        "Price": 170.89,
+        "Url": "https://www.amazon.com/Sapphire-11266-04-20G-Radeon-Backplate-Graphics/dp/B06ZY21842/ref=sr_1_5?dchild=1&keywords=rx+570&qid=1589213297&sr=8-5"
+    },
+    {
+        "Name": "Sapphire PULSE Radeon RX 570 4GB GDDR5 PCI-E Dual HDMI / DVI-D / Dual DP OC w/ Backplate (UEFI), 100412P4GOCL",
+        "Price": 177.1,
+        "Url": "https://www.amazon.com/Sapphire-PULSE-Radeon-Backplate-100412P4GOCL/dp/B074DWGZCY/ref=sr_1_35?dchild=1&keywords=rx+570&qid=1589213314&sr=8-35"
+    },
+    {
+        "Name": "Sapphire 11266-14-20G Radeon Nitro+ Rx 570 4GB GDDR5 Dual HDMI/ DVI-D/ Dual DP with Backplate (UEFI) PCI-E Graphics Card",
+        "Price": 193.95,
+        "Url": "https://www.amazon.com/Sapphire-11266-14-20G-Radeon-Backplate-Graphics/dp/B071CF1JFV/ref=sr_1_11?dchild=1&keywords=rx+570&qid=1589213297&sr=8-11"
+    },
+    {
+        "Name": "ASUS Expedition Radeon RX 570 8GB OC Edition Gaming GDDR5 DP HDMI DVI VR Ready AMD Graphics Card (EX-RX570-O8G)",
+        "Price": 205.19,
+        "Url": "https://www.amazon.com/ASUS-Expedition-Radeon-Graphics-EX-RX570-O8G/dp/B07BDT9HVN/ref=sr_1_24?dchild=1&keywords=rx+570&qid=1589213307&sr=8-24"
+    },
+    {
+        "Name": "Gigabyte Radeon RX 570 Gaming 4GB Graphic Cards GV-RX570GAMING-4GD",
+        "Price": 219.99,
+        "Url": "https://www.amazon.com/Gigabyte-Radeon-Gaming-Graphic-GV-RX570GAMING-4GD/dp/B06Y3RT952/ref=sr_1_10?dchild=1&keywords=rx+570&qid=1589213297&sr=8-10"
+    },
+    {
+        "Name": "MSI Radeon RX 570 Armor, G OC Graphics Card",
+        "Price": 249,
+        "Url": "https://www.amazon.com/MSI-Radeon-570-Armor-Graphics-Card/dp/B0785Q6DYP/ref=sr_1_32?dchild=1&keywords=rx+570&qid=1589213307&sr=8-32"
+    },
+    {
+        "Name": "Sapphire 11293-01-20G Radeon Pulse RX 5700 Xt 8GB GDDR6 HDMI/ Triple DP OC w/ Backplate (UEFI) PCIe 4.0 Graphics Card",
+        "Price": 399.99,
+        "Url": "https://www.amazon.com/Sapphire-11293-01-20G-Radeon-Backplate-Graphics/dp/B07WC7683C/ref=sr_1_50?dchild=1&keywords=rx+570&qid=1589213322&sr=8-50"
+    },
+    {
+        "Name": "Gigabyte Radeon Rx 5700 Xt Gaming OC 8G Graphics Card, PCIe 4.0, 8GB 256-Bit GDDR6, Gv-R57XTGAMING OC-8GD Video Card",
+        "Price": 409.99,
+        "Url": "https://www.amazon.com/Gigabyte-Graphics-256-Bit-Gv-R57XTGAMING-OC-8GD/dp/B07W95D5V3/ref=sr_1_26?dchild=1&keywords=rx+570&qid=1589213307&sr=8-26"
+    },
+    {
+        "Name": "Sapphire 11293-05-40G Radeon Nitro+ Rx 5700 Xt 8GB GDDR6 Dual HDMI/ Dual DP OC (UEFI) Special Edition PCIe 4.0 Graphics Card",
+        "Price": 459.99,
+        "Url": "https://www.amazon.com/Sapphire-11293-05-40G-Radeon-Special-Graphics/dp/B081KRC1H2/ref=sr_1_89?dchild=1&keywords=rx+570&qid=1589213337&sr=8-89"
+    }
+]
